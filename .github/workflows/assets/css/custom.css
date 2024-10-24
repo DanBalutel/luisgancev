@@ -1,0 +1,56 @@
+.sk__mobile-main-logo > img {
+    margin-left: 3rem;
+}
+
+.sk__subscribe-form button[type="submit"] {
+    width: fit-content !important;!i;!;
+    margin-right: -5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.hc-nav-trigger span, .hc-nav-trigger span:before, .hc-nav-trigger span:after {
+    background-color: rgb(246 194 43) !important;    
+    }
+    
+    .hero-socials i, .hero-socials span[class^="icon-"], button, input, textarea, .sk__subscribe-form button[type="submit"], .btn-outline-light, h1, h2, a,  h4, h5, h6, body, p, .text-white, .footer-socials a, .hc-offcanvas-nav li, .hc-offcanvas-nav .nav-item-link, .hc-offcanvas-nav li.nav-close a, .hc-offcanvas-nav .nav-back a {
+        color: rgb(246 194 43) !important;
+    }
+    
+    .btn-outline-light, .footer-socials a {
+        border: 2px solid rgba(246,194,43,0.25) !important
+    }
+
+    input, textarea {
+        border-color: rgb(246 194 43) !important;
+    }
+
+    button[type="submit"]:hover, input[type="submit"]:hover {
+        background-color: rgba(246, 194, 43, 0.1);
+        border-color: rgba(246, 194, 43, 1);
+    }
+
+    button[type="submit"] {
+        border-color: rgba(246, 194, 43, 0.7);
+    }
+
+    span.sk__back-to-top {
+        border-top: 4px solid rgb(246 194 43) !important;
+        border-right: 4px solid rgb(246 194 43) !important;
+    }
+    
+    .btn-outline-light:hover {
+        color: black !important;
+        background-color: rgb(246 194 43) !important;
+    }
+    .gradient-links, .gradient-links-bright{
+        -webkit-text-fill-color: rgb(246 194 43) !important;
+    }
+    ::placeholder {
+        color: rgb(246 194 43) !important;
+        opacity: 1; /* Firefox */
+      }
+      
+      ::-ms-input-placeholder { /* Edge 12 -18 */
+        color: rgb(246 194 43) !important;
+      }
